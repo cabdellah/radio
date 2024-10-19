@@ -12,7 +12,7 @@
 <streaming_url>https://www.radioluisteren.fm/stream/radio-1</streaming_url>
 <description>Wie luistert, weet meer</description>
 <image>https://www.radioluisteren.fm/images/zenders/radio-1.png</image>
-<enclosure url="https://www.radioluisteren.fm/images/zenders/radio-1.png" length="4013" type="image/png" />
+<enclosure url="https://www.radioluisteren.fm/images/zenders/radio-1.png"/>
 </item>
 
 </channel></rss>
